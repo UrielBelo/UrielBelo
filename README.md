@@ -3,21 +3,21 @@
 👓 Também faço Freelance de Designer 3D nas horas vagas <br>
 🌱 Estou estudando C#, Flutter e Node.JS <br><br>
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UrielBelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielBelo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=UrielBelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielBelo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
   <h3> Tenho conhecimentos em: </h3>
   <div>
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg">
-    <img height="90em" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg">
+    <img height="60em" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   </div>
 </div><hr>
 <h4>Venha me conhecer😆</h4>
